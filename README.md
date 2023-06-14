@@ -1,4 +1,4 @@
-Book project for ASP.NET Core in Action, Second Edition
+# Learning ASP.NET Core - In Action
 ==============================
 This repository contains the code samples for *ASP.NET Core in Action, Second Edition*
 
